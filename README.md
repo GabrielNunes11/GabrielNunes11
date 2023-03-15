@@ -12,4 +12,4 @@
 
 ![snake gif](https://github.com/GabrielNunes11/GabrielNunes11/blob/output/github-contribution-grid-snake.svg)
 
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunes11&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunes1188&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
