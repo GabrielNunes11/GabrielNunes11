@@ -9,3 +9,5 @@
 ![Gabriel Nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielNunes11&show_icons=true&theme=tokyonight)
 
 </br>
+
+![snake gif](https://github.com/GabrielNunes11/GabrielNunes11/blob/output/github-contribution-grid-snake.svg)
