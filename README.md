@@ -12,4 +12,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNunes11&layout=compact&hide_border=true&title_color=007A33&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-![snake gif](https://github.com/GabrielNunes11/GabrielNunes11/blob/output/github-contribution-grid-snake.svg)
+/*![snake gif](https://github.com/GabrielNunes11/GabrielNunes11/blob/output/github-contribution-grid-snake.svg)*/
